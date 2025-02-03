@@ -1,3 +1,6 @@
 [submodule "poll"]
 	path = poll
 	url = https://github.com/flick-23/Simple-Voting-Poll
+[submodule "examples"]
+	path = examples
+	url = https://github.com/dfinity/examples/
